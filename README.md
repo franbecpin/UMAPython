@@ -9,7 +9,6 @@
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/franbecpin/UMAPython)
 
 
-
 ---
 ## Descripción
 Repositorio asociado al curso:
@@ -36,7 +35,7 @@ Repositorio asociado al curso:
 - Python-02-01-VariablesArchivo
 - Python-02-02-ExpresionesArchivo
 - Python-02-03-TiposArchivo
-- **02-Ejercicio**
+- **02-Ejercicio** [X]
 
 ### 02-Ejercicio
 ```
@@ -60,8 +59,8 @@ python3 calculadora.py
 ### Descripcion
 - Python-03-Ejecución condicionalArchivo
 - Python-03-01-Sentencias condicionalesArchivo
-	- **03-Ejercicio-1**
- 	- **03-Ejercicio-2**
+	- **03-Ejercicio-1** [X]
+ 	- **03-Ejercicio-2** [X]
 - Python-03-02-Decisiones anidadasArchivo
 - Python-03-03-Estructura try exceptArchivo
 - Python-04-FuncionesArchivo
