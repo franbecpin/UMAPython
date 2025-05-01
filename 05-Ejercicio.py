@@ -27,25 +27,35 @@ numMax = 0
 numMin = 0
 contadorNum = 0
 nuevoValor = ''
+nuevoValorNumerico = 0
 valorSalida ='fin'
-
-def comprobarAsignarMayor(nuevoValor):
-	if nuevoValor > numMax:
-		numMax = nuevoValor
 	
-def comprobarAsignarMenor(nuevoValor):
-	if nuevoValor < numMin:
-		numMin = nuevoValor
-		
-while nuevoValor !==valorSalida :
+nuevoValor = input('Introduzca un numero [fin para termina]:  ')
+			
+while nuevoValor!=valorSalida :
 	try:
-		nuevoValor = input('Introduzca un numero [fin para termina]:  '))		
-		comprobarAsignarMayor(float(nuevoValor))
-		comprobarAsignarMenor(float(nuevoValor))	
 		
-	except:
-		
+		nuevoValorNumerico = int(nuevoValor)
+		contadorNum = contadorNum + 1		
 
+		# Si es la primera vez se asignar a mayor y menor el primer valor
+		if contadorNum==1:
+			numMax = nuevoValorNumerico	
+			numMin = nuevoValorNumerico
+		else:	
+			if nuevoValorNumerico > numMax:
+				numMax = nuevoValorNumerico
 	
+			if nuevoValorNumerico < numMin:
+				numMin = nuevoValorNumerico	
+	except:	
+		print('No es un valor numerico')
+	
+	#Nuevo valor	
+	nuevoValor = input('Introduzca un numero [fin para termina]:  ')		
+
+print('Numeros introducidos: '+str(contadorNum))
+print('Mayor: '+str(numMax))
+print('Menor: '+str(numMin))	
 	
 			

@@ -73,7 +73,7 @@ python3 calculadora.py
 	- Python-05-02-Bucles definidosArchivo
 	- Python-05-03-Bucles Encontrar el maximoArchivo
 	- Python-05-04-Bucles EjemplosArchivo
- 	- **05-Ejercicio** []
+ 	- **05-Ejercicio** [X]
 
 
 Entrega ejercicios tema 2Tarea
