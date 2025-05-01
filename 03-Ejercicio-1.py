@@ -1,8 +1,8 @@
 # Autor: Francisco J. Becerra
-# Fecha: 2704/2025
+# Fecha: 01/05/2025
 # Curso: UMA - Python para principiantes
 # Tema: 2
-# Ejercicio: 1
+# Ejercicio: 03-Ejercicio-1.py
 
 # Condición previa:
 '''
