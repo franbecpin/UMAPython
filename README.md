@@ -18,10 +18,7 @@ Repositorio asociado al curso:
 
 ---
 ## Tema 1
-### Ejercicio 1
-#### Ficheros:
-	- calculadora.py
-#### Descripción
+### Descripción
 - Python-01-IntroducciónArchivo
 - Python-01-IntroArchivo
 - Python-01-Intro-2 Arquitectura HardwareArchivo
@@ -33,7 +30,7 @@ Repositorio asociado al curso:
 - Entrega ejercicio tema 1Tarea
 - Ejercicios Adicionales tema 1 (no se requiere ninguna entrega)Archivo
 
-#### Ejercicios:
+### Ejercicio 1
 ```
 Escribir un programa que pregunte al usuario un número 
 de horas y el precio por hora para calcular el total a pagar.  
@@ -42,6 +39,8 @@ de horas y el precio por hora para calcular el total a pagar.
     Introduzca el precio/hora: 2.75  
     Total: 96.25  
 ```
+#### Ficheros:
+	- calculadora.py
 
 #### Ejecución
 ```python
