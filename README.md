@@ -3,13 +3,13 @@
 
 ---
 ## Descripción
-Repositorio asociado al curso: 
-	Entidad: Universidad de Málaga
-	Curso: Python para principiantes
-	Tecnología / Versión: 
-		- Python 3.6.9.
+Repositorio asociado al curso:   
+	- Entidad: Universidad de Málaga  
+	- Curso: Python para principiantes  
+	- Tecnología / Versión:   
+		- Python 3.6.9.  
 	
-	Descripción: Curso para el aprendizaje de Python 
+	- Descripción: Curso para el aprendizaje de Python   
 
 ## Índice
 ---
@@ -22,10 +22,12 @@ Repositorio asociado al curso:
 #### Ficheros:
 	- calculadora.py
 #### Descripción
+```
 Escribir un programa que pregunte al usuario un número de horas y el precio por hora para calcular el total a pagar.  
     Introduzca las horas: 35  
     Introduzca el precio/hora: 2.75  
     Total: 96.25  
+```
 
 #### Ejecución
 ```python
