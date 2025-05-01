@@ -2,7 +2,7 @@
 # Fecha: 26/04/2025
 # Curso: UMA - Python para principiantes
 # Tema: 1
-# Ejercicio: 1
+# Ejercicio: 02-Ejercicio
 
 # Descripción:
 '''

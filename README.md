@@ -9,7 +9,6 @@
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/franbecpin/UMAPython)
 
 
-
 ---
 ## Descripción
 Repositorio asociado al curso:
@@ -36,7 +35,7 @@ Repositorio asociado al curso:
 - Python-02-01-VariablesArchivo
 - Python-02-02-ExpresionesArchivo
 - Python-02-03-TiposArchivo
-- **02-Ejercicio**
+- **02-Ejercicio** [X]
 
 ### 02-Ejercicio
 ```
@@ -60,12 +59,12 @@ python3 calculadora.py
 ### Descripcion
 - Python-03-Ejecución condicionalArchivo
 - Python-03-01-Sentencias condicionalesArchivo
-	- **03-Ejercicio-1**
- 	- **03-Ejercicio-2**
+	- **03-Ejercicio-1** [X]
+ 	- **03-Ejercicio-2** [X]
 - Python-03-02-Decisiones anidadasArchivo
 - Python-03-03-Estructura try exceptArchivo
 - Python-04-FuncionesArchivo
-- 	- **04-Ejercicio**
+- 	- **04-Ejercicio** [X]
 - Python-04-Funciones lambda (material no incluido en los vídeos)Archivo
 	- Python-04-01-FuncionesArchivo
 	- Python-04-02-Funciones propiasArchivo
@@ -74,13 +73,13 @@ python3 calculadora.py
 	- Python-05-02-Bucles definidosArchivo
 	- Python-05-03-Bucles Encontrar el maximoArchivo
 	- Python-05-04-Bucles EjemplosArchivo
- 	- **05-Ejercicio**
+ 	- **05-Ejercicio** [X]
 
 
 Entrega ejercicios tema 2Tarea
 Ejercicios Adicionales tema 2 (no se requiere ninguna entrega)Archivo
 
-### 03-01-Ejercicio 1
+### 03-Ejercicio-1
 ```
 Reescribe el programa de pagos para incrementar en un
 factor de 1.5 las horas que se trabajen por encima de 40
@@ -90,11 +89,11 @@ horas (hasta 40 horas todas se cobran a precio normal)
 	Total: 475.0 475 = 40 * 10 + 5 * 15
 ```
 #### Ficheros:
-- ???.py
+- 03-Ejercicio-1.py
 
 #### Ejecución
 ```python
-python3 ???.py
+python3 03-Ejercicio-1.py
 ```
 
 ### 03-01-Ejercicio 2
@@ -109,11 +108,11 @@ que se manejen adecuadamente entradas no numéricas
 	Error, por favor introduzca un número
 ```
 #### Ficheros:
-- ???.py
+- 03-Ejercicio-2.py
 
 #### Ejecución
 ```python
-python3 ???.py
+python3 03-Ejercicio-2.py
 ```
 
 ### 04-Ejercicio
@@ -137,11 +136,11 @@ así como:
 	print(calculapago(horas,precio_hora))
 ```
 #### Ficheros:
-- ???.py
+- 04-Ejercicio.py
 
 #### Ejecución
 ```python
-python3 ???.py
+python3 04-Ejercicio.py
 ```
 ### 05-Ejercicio
 ```
@@ -156,11 +155,13 @@ momento. No está permitido el uso de otros elementos
 como listas (que se verán posteriormente)
 ```
 #### Ficheros:
-- ???.py
+- 05-Ejercicio.py
 
 #### Ejecución
 ```python
-python3 ???.py
+python3 05-Ejercicio.py
 ```
 
 ---
+
+
