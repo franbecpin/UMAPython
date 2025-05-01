@@ -1,6 +1,10 @@
 # UMA - Python
 ## Repositorio para el curso UMA
 ## Python para principiantes
+![Static Badge](https://img.shields.io/badge/En%20desarrollo%20-%20?label=Status&labelColor=orange)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/franbecpin/UMAPython)
+
+
 
 ---
 ## Descripción
@@ -9,7 +13,8 @@ Repositorio asociado al curso:
 - Curso: Python para principiantes
 - Descripción: Curso para el aprendizaje de Python   
 - Tecnología / Versión:
-	- Python 3.6.9.  	
+	- ![Static Badge](https://img.shields.io/badge/Python%20-%203.6.9-green)
+	
 
 ## Índice
 ---
