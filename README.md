@@ -60,8 +60,8 @@ python3 calculadora.py
 ### Descripcion
 - Python-03-Ejecución condicionalArchivo
 - Python-03-01-Sentencias condicionalesArchivo
-	- 03-Ejercicio-1
- 	- 03-Ejercicio-2	
+	- **03-Ejercicio-1**
+ 	- **03-Ejercicio-2**
 - Python-03-02-Decisiones anidadasArchivo
 - Python-03-03-Estructura try exceptArchivo
 - Python-04-FuncionesArchivo
