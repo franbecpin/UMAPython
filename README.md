@@ -2,7 +2,11 @@
 ## Repositorio para el curso UMA
 ## Python para principiantes
 ![Static Badge](https://img.shields.io/badge/En%20desarrollo%20-%20?label=Status&labelColor=orange)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/franbecpin/UMAPython)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/franbecpin/UMAPython/main)
+![GitHub number of milestones](https://img.shields.io/github/milestones/open/franbecpin/UMAPython)  
+![GitHub Tag](https://img.shields.io/github/v/tag/franbecpin/UMAPython)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/franbecpin/UMAPython)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/franbecpin/UMAPython)
 
 
 
