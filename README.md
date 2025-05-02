@@ -23,6 +23,7 @@ Repositorio asociado al curso:
 ---
 - [Tema 1](#Tema-1)
 - [Tema 2](#Tema-2)
+- [Tema 3](#Tema-3)
 
 ---
 ## Tema 1
@@ -47,11 +48,11 @@ de horas y el precio por hora para calcular el total a pagar.
     Total: 96.25  
 ```
 #### Ficheros:
-	- calculadora.py
+	- 02-Ejercicio.py
 
 #### Ejecución
 ```python
-python3 calculadora.py
+python3 02-Ejercicio.py
 ```
 
 ---
@@ -76,9 +77,6 @@ python3 calculadora.py
  	- **05-Ejercicio** [X]
 
 
-Entrega ejercicios tema 2Tarea
-Ejercicios Adicionales tema 2 (no se requiere ninguna entrega)Archivo
-
 ### 03-Ejercicio-1
 ```
 Reescribe el programa de pagos para incrementar en un
@@ -87,13 +85,6 @@ horas (hasta 40 horas todas se cobran a precio normal)
 	Introduzca las horas: 45
 	Introduzca el precio/hora: 10
 	Total: 475.0 475 = 40 * 10 + 5 * 15
-```
-#### Ficheros:
-- 03-Ejercicio-1.py
-
-#### Ejecución
-```python
-python3 03-Ejercicio-1.py
 ```
 
 ### 03-01-Ejercicio 2
@@ -108,10 +99,12 @@ que se manejen adecuadamente entradas no numéricas
 	Error, por favor introduzca un número
 ```
 #### Ficheros:
+- 03-Ejercicio-1.py
 - 03-Ejercicio-2.py
 
 #### Ejecución
 ```python
+python3 03-Ejercicio-1.py
 python3 03-Ejercicio-2.py
 ```
 
@@ -161,7 +154,67 @@ como listas (que se verán posteriormente)
 ```python
 python3 05-Ejercicio.py
 ```
+## Tema 3
+### Descripcion
 
+- Python-06-StringsArchivo
+	- **06-Ejercicio-1 []**
+ 	- **06-Ejercicio-2 []**
+  	- **06-Ejercicio-3 []**
+- Python-06-Strings (contenido adicional) (material no incluido en los vídeos)Archivo
+- Python-06-01-StringsArchivo
+- Python-06-02-Operaciones con StringsArchivo
+- Python-06-03-Funciones para StringsArchivo
+- Python-07-Archivos
+- Python-07-01-Archivos
+- Python-07-02-Procesando Archivos
+
+### 06-Ejercicio-1
+```
+Utilizar find() y los slices (:) para extraer el número en un
+string como el que aparece a continuación. Convertir el
+número a flotante y mostrarlo.
+¡Ojo! No asumir que el número es 0.8475, es solo un
+ejemplo. No sabemos qué número es, tenemos que
+extraerlo. Sí podemos suponer que el resto de la línea es
+igual. Esto es, comienza por "X-DSPAM-Confidence..."
+"X-DSPAM-Confidence: 0.8475"
+```
+
+### 06-Ejercicio-2
+```
+Pedir un nombre al Usuario de la forma:
+NOMBRE APELLIDO1 APELLIDO2
+Por ejemplo: José García Pérez
+Dar la Vuelta al nombre y presentarlo en el formato:
+APELLIDO1 APELLIDO2, NOMBRE
+Por ejemplo: García Pérez, José
+```
+
+### 06-Ejercicio-3
+```
+Pedir una contraseña al Usuario repetidas veces hasta que
+la contraseña sea considerada fuerte. Para ello, debe tener,
+como mínimo 8 caracteres y contener, al menos, tanto una
+mayúscula como un dígito
+estaEslaCon8traseña sería válida
+abcdefghijklmnopq no sería válida porque no cumple las
+condiciones
+La solución debe incluir una función que reciba un string y
+retorne si es una contraseña fuerte o no
+Pista: usar las funciones isdigit, isupper
+```
+
+#### Ficheros:
+- 06-Ejercicio-1.py
+- 06-Ejercicio-2.py
+- 06-Ejercicio-3.py
+
+#### Ejecución
+```python
+python3 06-Ejercicio-1.py
+python3 06-Ejercicio-2.py
+python3 06-Ejercicio-3.py
 ---
 
 
