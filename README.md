@@ -159,7 +159,7 @@ python3 05-Ejercicio.py
 
 - Python-06-StringsArchivo
 	- **06-Ejercicio-1 [FALTA ENVIO]**
- 	- **06-Ejercicio-2 [PENDIENTE]**
+ 	- **06-Ejercicio-2 [FALTA ENVIO]**
   	- **06-Ejercicio-3 [PENDIENTE]**
 - Python-06-Strings (contenido adicional) (material no incluido en los vídeos)Archivo
 - Python-06-01-StringsArchivo

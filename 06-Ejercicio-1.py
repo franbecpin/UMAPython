@@ -31,8 +31,7 @@ formatoRequerido ="Texto: numeroDecimal"
 def devolverSubcadena(strEntrada):
 	posSeparador = strEntrada.find(separador)
 	#Cortamos la cadena y suprimimos espacios
-	longStrEntrada = len(strEntrada)
-	strEntrada = strEntrada[posSeparador+1:longStrEntrada].strip()
+	strEntrada = strEntrada[posSeparador+1:len(strEntrada)].strip()
 	
 	return strEntrada
 
@@ -44,8 +43,10 @@ def comprobarValorNumerico(strEntrada):
 		print('[ERR] La cadena no contenia valor numerico')
 		print('[ERR] Formato Requerido => '+formatoRequerido)
 
+# Main
 strEntrada = input('Introduzca dato [escriba Test para prueba automatica]: ')
 
+# Test
 if strEntrada.upper()==valorTest.upper():
 	strEntrada = "X-DSPAM-Confidence: 0.8475"
 
@@ -56,7 +57,6 @@ if posSeparador == -1:
 	print(' [ERR] Formato de entrada Erroneo')
 	print(' [ERR] Formato Requerido => '+formatoRequerido)
 else:
-	strEntrada = devolverSubcadena(strEntrada)
-	
+	strEntrada = devolverSubcadena(strEntrada)	
 	comprobarValorNumerico(strEntrada)
 	
