@@ -160,12 +160,13 @@ python3 05-Ejercicio.py
 - Python-06-StringsArchivo
 	- **06-Ejercicio-1 [FALTA ENVIO]**
  	- **06-Ejercicio-2 [FALTA ENVIO]**
-  	- **06-Ejercicio-3 [PENDIENTE]**
+  	- **06-Ejercicio-3 [FALTA ENVIO]**
 - Python-06-Strings (contenido adicional) (material no incluido en los vídeos)Archivo
 - Python-06-01-StringsArchivo
 - Python-06-02-Operaciones con StringsArchivo
 - Python-06-03-Funciones para StringsArchivo
 - Python-07-Archivos
+	- **07-Ejercicio [FALTA ENVIO]**
 - Python-07-01-Archivos
 - Python-07-02-Procesando Archivos
 
@@ -205,16 +206,37 @@ retorne si es una contraseña fuerte o no
 Pista: usar las funciones isdigit, isupper
 ```
 
+### 07-Ejercicio
+#### Requiere los ficheros
+- mbox-short.txt
+- mbox.txtmbox.txt
+
+```
+Escribir un programa que pregunte por un
+nombre de archivo, lo abra, y lo lea mostrando
+las líneas de la forma:
+X-DSPAM-Confidence: 0.8475
+Contar las líneas y extraer los valores flotantes de
+cada una de ellas, calculando el promedio y
+mostrándolo al final.
+Se pueden descargar datos de muestra desde el
+archivo mbox-short.txt en Campus Virtual. El
+valor promedio resultante debería ser:
+0.7507185185185187
+```
+
 #### Ficheros:
 - 06-Ejercicio-1.py
 - 06-Ejercicio-2.py
 - 06-Ejercicio-3.py
+- 07-Ejercicio.py
 
 #### Ejecución
 ```python
 python3 06-Ejercicio-1.py
 python3 06-Ejercicio-2.py
 python3 06-Ejercicio-3.py
+python3 07-Ejercicio.py
 ---
 
 
