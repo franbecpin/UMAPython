@@ -239,24 +239,23 @@ python3 06-Ejercicio-2.py
 python3 06-Ejercicio-3.py
 python3 07-Ejercicio.py
 
-
 ---
 ## Tema 4
 ### Descripción
 
-- Python-08-Listas en PythonArchivo
-	- **08-Ejercicio-1 []**
-	- **08-Ejercicio-2 []**
-- Python-08-01-ListasArchivo
-- Python-08-02-Metodos de ListasArchivo
-- Python-08-03-Listas y StringsArchivo
-- Python-09-Diccionarios en PythonArchivo
-- Python-09-01-DiccionariosArchivo
-- Python-09-02-Diccionarios Nombre mas comunArchivo
-- Python-09-03-Diccionarios Contando palabrasArchivo
-- Python-10-TuplasArchivo
-- Python-10-01-TuplasArchivo
-- Python-10-02-Mas sobre tuplasArchivo
+- Python-08-Listas en PythonArchivo  
+	- **08-Ejercicio-1 []**  
+	- **08-Ejercicio-2 []**  
+- Python-08-01-ListasArchivo  
+- Python-08-02-Metodos de ListasArchivo  
+- Python-08-03-Listas y StringsArchivo  
+- Python-09-Diccionarios en PythonArchivo  
+- Python-09-01-DiccionariosArchivo  
+- Python-09-02-Diccionarios Nombre mas comunArchivo  
+- Python-09-03-Diccionarios Contando palabrasArchivo  
+- Python-10-TuplasArchivo  
+- Python-10-01-TuplasArchivo  
+- Python-10-02-Mas sobre tuplasArchivo  
 
 ### 08-Ejercicio-1
 #### Requiere los ficheros
