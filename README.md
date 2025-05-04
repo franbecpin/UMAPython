@@ -24,6 +24,7 @@ Repositorio asociado al curso:
 - [Tema 1](#Tema-1)
 - [Tema 2](#Tema-2)
 - [Tema 3](#Tema-3)
+- [Tema 4](#Tema-4)
 
 ---
 ## Tema 1
@@ -158,9 +159,9 @@ python3 05-Ejercicio.py
 ### Descripcion
 
 - Python-06-StringsArchivo
-	- **06-Ejercicio-1 [FALTA ENVIO]**
- 	- **06-Ejercicio-2 [FALTA ENVIO]**
-  	- **06-Ejercicio-3 [FALTA ENVIO]**
+	- **06-Ejercicio-1 [X]**
+ 	- **06-Ejercicio-2 [X]**
+  	- **06-Ejercicio-3 [X]**
 - Python-06-Strings (contenido adicional) (material no incluido en los vídeos)Archivo
 - Python-06-01-StringsArchivo
 - Python-06-02-Operaciones con StringsArchivo
@@ -237,6 +238,67 @@ python3 06-Ejercicio-1.py
 python3 06-Ejercicio-2.py
 python3 06-Ejercicio-3.py
 python3 07-Ejercicio.py
+
+
 ---
+## Tema 4
+### Descripción
 
+- Python-08-Listas en PythonArchivo
+	- **08-Ejercicio-1 []**
+	- **08-Ejercicio-2 []**
+- Python-08-01-ListasArchivo
+- Python-08-02-Metodos de ListasArchivo
+- Python-08-03-Listas y StringsArchivo
+- Python-09-Diccionarios en PythonArchivo
+- Python-09-01-DiccionariosArchivo
+- Python-09-02-Diccionarios Nombre mas comunArchivo
+- Python-09-03-Diccionarios Contando palabrasArchivo
+- Python-10-TuplasArchivo
+- Python-10-01-TuplasArchivo
+- Python-10-02-Mas sobre tuplasArchivo
 
+### 08-Ejercicio-1
+#### Requiere los ficheros
+- romeo.txt
+
+```
+Abre el archivo romeo.txt y léelo línea a línea.
+Para cada línea, divide la línea en palabras
+usando el método split(). El programa debería
+construir una lista de palabras. Para cada palabra
+de cada línea, comprobar si ya estaba en la lista,
+y si no, añádela. Cuando el programa termine,
+ordenar la lista y mostrar las palabras resultantes
+en orden alfabético.
+El archivo romeo.txt puede descargarse desde el
+Campus Virtual
+```
+### 08-Ejercicio-2
+#### Requiere los ficheros
+- mbox-short.txt
+
+```
+Abre el archivo mbox-short.txt y léelo línea a línea. Cuando
+encuentres una línea que comience con 'From ' como la
+siguiente:
+From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16
+2008
+trocea la línea usando split() e imprime la segunda palabra
+de la línea (es decir, la dirección de la persona que envió el
+mensaje). Al final, indica cuántas personas hubo (no es
+necesario tener en cuenta repeticiones).
+Nota: asegúrate de no incluir las líneas que comiencen con
+'From:'.
+El archivo mbox-short.txt puede descargarse desde el
+Campus Virtual
+```
+
+#### Ficheros:
+- 08-Ejercicio-1.py
+- 08-Ejercicio-2.py
+
+#### Ejecución
+```python
+python3 08-Ejercicio-1.py
+python3 08-Ejercicio-2.py
