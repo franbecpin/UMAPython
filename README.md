@@ -238,6 +238,7 @@ python3 06-Ejercicio-1.py
 python3 06-Ejercicio-2.py
 python3 06-Ejercicio-3.py
 python3 07-Ejercicio.py
+```
 
 ---
 ## Tema 4
@@ -301,3 +302,4 @@ Campus Virtual
 ```python
 python3 08-Ejercicio-1.py
 python3 08-Ejercicio-2.py
+```
