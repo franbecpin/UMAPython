@@ -167,7 +167,7 @@ python3 05-Ejercicio.py
 - Python-06-02-Operaciones con StringsArchivo
 - Python-06-03-Funciones para StringsArchivo
 - Python-07-Archivos
-	- **07-Ejercicio [FALTA ENVIO]**
+	- **07-Ejercicio [X]**
 - Python-07-01-Archivos
 - Python-07-02-Procesando Archivos
 
@@ -245,16 +245,18 @@ python3 07-Ejercicio.py
 ### Descripción
 
 - Python-08-Listas en PythonArchivo  
-	- **08-Ejercicio-1 []**  
-	- **08-Ejercicio-2 []**  
+	- **08-Ejercicio-1 [X]**  
+	- **08-Ejercicio-2 [X]**  
 - Python-08-01-ListasArchivo  
 - Python-08-02-Metodos de ListasArchivo  
 - Python-08-03-Listas y StringsArchivo  
 - Python-09-Diccionarios en PythonArchivo  
+	- **09-Ejercicio [X]**
 - Python-09-01-DiccionariosArchivo  
 - Python-09-02-Diccionarios Nombre mas comunArchivo  
 - Python-09-03-Diccionarios Contando palabrasArchivo  
 - Python-10-TuplasArchivo  
+	- **10-Ejercicio [X]**
 - Python-10-01-TuplasArchivo  
 - Python-10-02-Mas sobre tuplasArchivo  
 
@@ -294,12 +296,66 @@ El archivo mbox-short.txt puede descargarse desde el
 Campus Virtual
 ```
 
+### 09-Ejercicio
+#### Requiere los ficheros
+- mbox-short.txt
+
+```
+Escribe un programa que lea el archivo mbox-
+short.txt e indique quién ha enviado el mayor
+número de e-mails junto con el número de e-
+mails. El programa busca líneas con ‘From ‘ y
+toma la segunda palabra de estas líneas como la
+persona que envió el e-mail.
+Debes crear un diccionario Python que mapea el
+nombre del emisor con el número de veces que
+aparece en el archivo. Después de generar el
+diccionario, el programa itera a través del
+diccionario para ver quién ha sido el emisor con
+más mensajes.
+```
+
+### 10-Ejercicio
+#### Requiere los ficheros
+- mbox-short.txt
+
+```
+Escribe un programa que lea el archivo mbox-short.txt y
+muestre la distribución por horas del día de los
+mensajes.
+Se puede extraer la hora de las líneas que comiencen
+por 'From ', extrayendo la hora completa y dividiendo
+una segunda vez con los ':' como delimitador.
+From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16
+2008
+Una vez hayas obtenido el total de mensajes en cada
+hora, muestra los totales ordenados por hora. Deberías
+obtener el resultado que se muestra a la derecha
+
+04 3
+06 1
+07 1
+09 2
+10 3
+11 6
+14 1
+15 2
+16 4
+17 2
+18 1
+19 1
+```
+
 #### Ficheros:
 - 08-Ejercicio-1.py
 - 08-Ejercicio-2.py
+- 09-Ejercicio.py
+- 10-Ejercicio.py
 
 #### Ejecución
 ```python
 python3 08-Ejercicio-1.py
 python3 08-Ejercicio-2.py
+python3 09-Ejercicio-2.py
+python3 10-Ejercicio.py
 ```
