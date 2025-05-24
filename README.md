@@ -167,7 +167,7 @@ python3 05-Ejercicio.py
 - Python-06-02-Operaciones con StringsArchivo
 - Python-06-03-Funciones para StringsArchivo
 - Python-07-Archivos
-	- **07-Ejercicio [FALTA ENVIO]**
+	- **07-Ejercicio [X]**
 - Python-07-01-Archivos
 - Python-07-02-Procesando Archivos
 
@@ -245,18 +245,18 @@ python3 07-Ejercicio.py
 ### Descripción
 
 - Python-08-Listas en PythonArchivo  
-	- **08-Ejercicio-1 [FALTA ENVIO]**  
-	- **08-Ejercicio-2 [FALTA ENVIO]**  
+	- **08-Ejercicio-1 [X]**  
+	- **08-Ejercicio-2 [X]**  
 - Python-08-01-ListasArchivo  
 - Python-08-02-Metodos de ListasArchivo  
 - Python-08-03-Listas y StringsArchivo  
 - Python-09-Diccionarios en PythonArchivo  
-	- **09-Ejercicio [FALTA ENVIO]**
+	- **09-Ejercicio [X]**
 - Python-09-01-DiccionariosArchivo  
 - Python-09-02-Diccionarios Nombre mas comunArchivo  
 - Python-09-03-Diccionarios Contando palabrasArchivo  
 - Python-10-TuplasArchivo  
-	- **10-Ejercicio []**
+	- **10-Ejercicio [X]**
 - Python-10-01-TuplasArchivo  
 - Python-10-02-Mas sobre tuplasArchivo  
 
